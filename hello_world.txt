@@ -4,6 +4,12 @@ Honestly I'm really trying to stick to it this time.
 Learning LUA was a pain, and learning stuff directly from a book isn't really helpful.
 Plus it just seems so corporate, TOP really feels like it's a real community.
 Like it's a real being talking me through everything and encouraging me at every point.
+It so far seems to be the most detailed and dedicated project for teaching people to code.
+I've tried CodeCademy, and really liked it too, being able to write code within the website is so nice.
+Overall it was aesthetically pleasing and portrayed information so well.
+Truly, though, TOP sets you up for a real career. It doesn't hand hold you by giving you your own text editor and output to write in.
+You set everything up yourself, BEFORE you begin learning ANYTHING.
+You dedicate yourself before you've written even a single line of code.
 I hope I can pull through, and I wish whoever is reading this a wonderful day, night, weekend.
 Whatever it may be.
 
