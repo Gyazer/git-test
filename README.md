@@ -1,4 +1,6 @@
 # git-test
 Testing out GitHub repos...
+Sata Andagi...
 Hello Odin!
-hello world
+
+print("Hello world!")
